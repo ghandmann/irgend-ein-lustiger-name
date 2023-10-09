@@ -10,3 +10,7 @@ Hallo Hallo
 ## Mein Blog
 
 Das ist der erste Eintrag meines Blogs.
+
+## Neuer Eintrag im Blog
+
+kwt
